@@ -4,7 +4,7 @@
       "id": 6,
       "Name": "STG-44",
       "rateOfFire": 666,
-      "reloadTime": 20.03,
+      "reloadTime": 2.03,
       "reloadTimeEmpty": 2.8,
       "damage": 30,
       "range": 700,
