@@ -303,7 +303,7 @@
     {
       "id": 6,
       "weaponName": "STG-44",
-      "attachmentId": 2,
+      "attachmentId": 3,
       "attachmentName": "Extended Mag",
       
       "bulletsPerClip": 15
