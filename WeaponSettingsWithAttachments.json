@@ -299,6 +299,15 @@
       "recoil": -0.5,
       "recoilSpeed": -1.5,
       "recoilReturnSpeed": -1
+    },
+    {
+      "id": 6,
+      "weaponName": "STG-44",
+      "attachmentId": 2,
+      "attachmentName": "Extended Mag",
+      
+      "bulletsPerClip": 15
     }
+    
   ]
 }
